@@ -1,0 +1,571 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\source\\repos\\mamba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\viewmodels\\department\\updatedepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\viewmodels\\department\\updatedepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\viewmodels\\department\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\viewmodels\\department\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\viewmodels\\department\\getdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\viewmodels\\department\\getdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\mamba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\mamba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\configurations\\departmentsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\configurations\\departmentsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|c:\\users\\ii novbe\\source\\repos\\mamba\\mamba\\migrations\\20250114121255_createemployeeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA16378C-8D05-410C-92D4-C20853607D84}|mamba\\mamba.csproj|solutionrelative:mamba\\migrations\\20250114121255_createemployeeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:38:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:33:36.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:24:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Program.cs",
+              "RelativeDocumentMoniker": "mamba\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Program.cs",
+              "RelativeToolTip": "mamba\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:43:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:43:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:27:00.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mamba\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:15:22.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mamba\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "mamba\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:04:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "mamba\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "mamba\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:45:33.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "mamba\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Models\\Employee.cs",
+              "RelativeToolTip": "mamba\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:50:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "mamba\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "mamba\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:14:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:38:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:37:42.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:37:07.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:34:31.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:34:04.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:26:57.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:27:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:26:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:26:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:25:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "mamba\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:25:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mamba\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:13:59.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "mamba\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "mamba\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-14T12:25:10.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250114121255_CreateEmployeeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Migrations\\20250114121255_CreateEmployeeeTable.cs",
+              "RelativeDocumentMoniker": "mamba\\Migrations\\20250114121255_CreateEmployeeeTable.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Migrations\\20250114121255_CreateEmployeeeTable.cs",
+              "RelativeToolTip": "mamba\\Migrations\\20250114121255_CreateEmployeeeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:12:55.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentsConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Configurations\\DepartmentsConfigurations.cs",
+              "RelativeDocumentMoniker": "mamba\\Configurations\\DepartmentsConfigurations.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Configurations\\DepartmentsConfigurations.cs",
+              "RelativeToolTip": "mamba\\Configurations\\DepartmentsConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:11:47.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "mamba\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "mamba\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:07:47.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mamba\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T12:05:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "mamba.csproj",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\mamba.csproj",
+              "RelativeDocumentMoniker": "mamba\\mamba.csproj",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\mamba.csproj",
+              "RelativeToolTip": "mamba\\mamba.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T10:19:45.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "mamba\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Models\\Department.cs",
+              "RelativeToolTip": "mamba\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:53:35.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "mamba\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "mamba\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:50:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\appsettings.json",
+              "RelativeDocumentMoniker": "mamba\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\appsettings.json",
+              "RelativeToolTip": "mamba\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T11:21:12.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mamba\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mamba\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:13:44.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
