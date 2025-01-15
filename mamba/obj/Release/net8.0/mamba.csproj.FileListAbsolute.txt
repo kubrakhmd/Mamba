@@ -256,3 +256,15 @@ C:\Users\II novbe\source\repos\mamba\mamba\obj\Release\net8.0\refint\mamba.dll
 C:\Users\II novbe\source\repos\mamba\mamba\obj\Release\net8.0\mamba.pdb
 C:\Users\II novbe\source\repos\mamba\mamba\obj\Release\net8.0\mamba.genruntimeconfig.cache
 C:\Users\II novbe\source\repos\mamba\mamba\obj\Release\net8.0\ref\mamba.dll
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.csproj.AssemblyReference.cache
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.RazorAssemblyInfo.cache
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.RazorAssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.dll
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\refint\mamba.dll
+C:\Users\Kubra\OneDrive\Desktop\Mamba\mamba\obj\Release\net8.0\mamba.pdb

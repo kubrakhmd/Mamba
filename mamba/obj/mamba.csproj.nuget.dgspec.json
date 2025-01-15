@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\mamba.csproj": {}
+    "C:\\Users\\Kubra\\OneDrive\\Desktop\\Mamba\\mamba\\mamba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\mamba.csproj": {
+    "C:\\Users\\Kubra\\OneDrive\\Desktop\\Mamba\\mamba\\mamba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\mamba.csproj",
+        "projectUniqueName": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Mamba\\mamba\\mamba.csproj",
         "projectName": "mamba",
-        "projectPath": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\mamba.csproj",
-        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\source\\repos\\mamba\\mamba\\obj\\",
+        "projectPath": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Mamba\\mamba\\mamba.csproj",
+        "packagesPath": "C:\\Users\\Kubra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Mamba\\mamba\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kubra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
